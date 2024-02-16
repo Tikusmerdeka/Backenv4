@@ -1,3 +1,11 @@
+# TAMPILAN SCRIPT
+![alt text](https://github.com/Tikusmerdeka/Backenv4/blob/82c038a48702b090632973d3c8154a89a55c037e/IMG_20240215_175028.jpg?raw=true)
+
+
+
+
+
+
 
 # UP REPO DEBIAN
 <pre><code>apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot</code></pre>
