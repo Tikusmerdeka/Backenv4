@@ -4,7 +4,7 @@
 #IZIN IP KE ADMIN 
 <br> WHATSAPP : https://wa.me/6283805609815
 <br> TELEGRAM : https://t.me/MAZ_FARUK
- <br>FREES KOK BANG NGAPAIN SEWA SC 😋😋😋
+ <br>FREE KOK BANG NGAPAIN SEWA SC 😋😋😋
 
 
 ### COMMAND INSTALL SCRIPT 😋
