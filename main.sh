@@ -19,8 +19,8 @@ green='\e[0;32m'
 TIME=$(date '+%d %b %Y')
 ipsaya=$(wget -qO- ipinfo.io/ip)
 TIMES="10"
-CHATID="5014929660"
-KEY="6593940626:AAEKp-YH7_fGkNPykN1KOLX-rr5fLeRaEcU"
+CHATID="-1001993310646"
+KEY="7030952055:AAHpC93fG98aKCLDPyJbyfdsbY47356cJvI"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 clear
 export IP=$( curl -sS icanhazip.com )
@@ -28,7 +28,7 @@ clear
 clear && clear && clear
 clear;clear;clear
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "\033[96;1m                    AGUNG TUNNELING               \033[0m"
+echo -e "\033[96;1m                    MAZFARUK TUNNEL               \033[0m"
 echo -e "${YELLOW}----------------------------------------------------------${NC}"
 echo ""
 sleep 3
